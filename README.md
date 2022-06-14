@@ -1,6 +1,7 @@
 # DEN(Dyanmically Expandable Networks) tensorflow keras
 
 [[LIFELONG LEARNING WITH DYNAMICALLY EXPANDABLE NETWORKS]](https://arxiv.org/abs/1708.01547) 논문을 케라스로 구현하고 테스트 해보았습니다.   
+최신 버전의 코드가 소실되어 현재 복구 작업 중 입니다. (현재 코드는 잘못 구현된 부분이 존재함)   
 
 
 <p align="center">
