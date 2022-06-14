@@ -1,6 +1,7 @@
 # DEN(Dyanmically Expandable Networks) tensorflow keras
 
-케라스로 구현한 DEN
+[[LIFELONG LEARNING WITH DYNAMICALLY EXPANDABLE NETWORKS]](https://arxiv.org/abs/1708.01547) 논문을 케라스로 구현하고 테스트 해보았습니다.   
+
 
 <p align="center">
 <img src="./readme/Den_model.png" alt="Den_model" style="width:800px;"/>
@@ -15,3 +16,9 @@ Dynamic network expansion
 
 Network split/duplication   
 * 기존 가중치가 너무 많이 변한 경우 가중치를 복사하여 붙이기   
+
+## Reference
+#### Paper
+* https://arxiv.org/abs/1708.01547
+#### Code
+* https://github.com/jaehong31/DEN
